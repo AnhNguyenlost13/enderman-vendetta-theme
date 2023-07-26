@@ -1,0 +1,76 @@
+{
+  "name": "Endertheme",
+  "description": "Dedicated to @realendermanch, by AnhNguyenlost13. Background is The End dimension in Minecraft with 'Nullscape' mod.",
+  "authors": [
+    {
+      "name": "@anhnguyenlost13"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#FFFFFF"],
+    "HEADER_SECONDARY": ["#999999"],
+    "TEXT_NORMAL": ["#FFFFFF"],
+    "TEXT_MUTED": ["#5E5E5E"],
+    "TEXT_LINK": ["#DE7AFA"],
+    "INTERACTIVE_NORMAL": ["#DE7AFA"],
+    "INTERACTIVE_HOVER": ["#9600C8"],
+    "INTERACTIVE_ACTIVE": ["#969696"],
+    "INTERACTIVE_MUTED": ["#C800FA"],
+    "BACKGROUND_PRIMARY": ["#281E41"],
+    "BACKGROUND_SECONDARY": ["#281E41"],
+    "BACKGROUND_SECONDARY_ALT": ["#281E41"],
+    "BACKGROUND_TERTIARY": ["#281E41"],
+    "BACKGROUND_ACCENT": ["#8C1964"],
+    "BACKGROUND_FLOATING": ["#3C324B"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#281E41"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#281E41"],
+    "BACKGROUND_NESTED_FLOATING": ["#281E41"],
+
+    "BACKGROUND_MESSAGE_HOVER": ["#0A0A0A"],
+    "BACKGROUND_MODIFIER_HOVER": ["#0A0A0A"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#64007D"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#67427D"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#64007D"],
+    "SCROLLBAR_THIN_THUMB": ["#26273b"],
+    "SCROLLBAR_THIN_TRACK": ["transparent"],
+    "SCROLLBAR_AUTO_THUMB": ["#CAB3DA"],
+    "SCROLLBAR_AUTO_TRACK": ["#CAB3DA"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#242424"],
+    "CHANNELS_DEFAULT": ["#90769E"],
+    "TEXT_DANGER": ["#FC0E61"],
+    "KEYBOARD": ["#0A0A0A"],
+    "CHANNEL_ICON": ["#BEB3C6"],
+    "CHAT_BACKGROUND": ["#0A0A0A"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#281E41"],
+    "SPOILER_REVEALED_BACKGROUND": ["#503C82"]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#F2D8FD",
+    "PRIMARY_200": "#947592",
+    "PRIMARY_300": "#9472D5",
+    "PRIMARY_360": "#C272F0",
+    "PRIMARY_400": "#7114EE",
+    "PRIMARY_500": "#5F3A70",
+    "PRIMARY_600": "#0A0A0A",
+    "PRIMARY_630": "#2F2F2F",
+    "PRIMARY_660": "#2F2F2F",
+    "PRIMARY_700": "#0A0A0A",
+    "PRIMARY_800": "#0A0A0A",
+
+    "BRAND_260": "#866195",
+    "BRAND_360": "#BF96D0",
+    "BRAND_500": "#866195",
+    "BRAND_560": "#BF96D0",
+    "WHITE_500": "#E7C4FF",
+    "YELLOW_300": "#B569E0",
+    "GREEN_360": "#B569E0",
+    "RED_400": "#FC0E61"
+  },
+  "spec": 2,
+  "background": {
+    "blur": 10,
+    "url": "https://i.imgur.com/3huXoqp.jpg",
+    "alpha": 0.9,
+    "color": "#0A0A0A"
+  }
+}
